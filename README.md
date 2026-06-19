@@ -28,8 +28,8 @@ Los archivos que debe modificar el usuario son los siguientes:
 
 ## Logs
 
-curva_planificada.log: contiene la tabla de pares de tiempo y velocidad que va a seguir la bomba.
-registro_de_corrida.log: es un log de todo lo que hizo el programa. Conservar en caso de falla del programa para debug.
+- curva_planificada.log: contiene la tabla de pares de tiempo y velocidad que va a seguir la bomba.
+- registro_de_corrida.log: es un log de todo lo que hizo el programa. Conservar en caso de falla del programa para debug.
 
 ## Licencia
 
