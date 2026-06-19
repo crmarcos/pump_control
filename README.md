@@ -1,7 +1,6 @@
 # Pump Control - Control de Bomba Peristáltica
 
-Permite conectarse a una bomba peristáltica que permita conexión por puerto serie y setear su velocidad en función de una
-función del tiempo definida por el usuario.
+Permite conectarse a una bomba peristáltica que tenga conexión por puerto serie y setear su velocidad con una función del tiempo definida por el usuario.
 
 ## Tabla de Contenidos
 
